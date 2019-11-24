@@ -1,0 +1,10 @@
+C:\Users\SENA\source\repos\TiendasDeportivas\TiendasDeportivas\bin\Debug\TiendasDeportivas.exe.config
+C:\Users\SENA\source\repos\TiendasDeportivas\TiendasDeportivas\bin\Debug\TiendasDeportivas.exe
+C:\Users\SENA\source\repos\TiendasDeportivas\TiendasDeportivas\bin\Debug\TiendasDeportivas.pdb
+C:\Users\SENA\source\repos\TiendasDeportivas\TiendasDeportivas\obj\Debug\TiendasDeportivas.csprojAssemblyReference.cache
+C:\Users\SENA\source\repos\TiendasDeportivas\TiendasDeportivas\obj\Debug\TiendasDeportivas.Form1.resources
+C:\Users\SENA\source\repos\TiendasDeportivas\TiendasDeportivas\obj\Debug\TiendasDeportivas.Properties.Resources.resources
+C:\Users\SENA\source\repos\TiendasDeportivas\TiendasDeportivas\obj\Debug\TiendasDeportivas.csproj.GenerateResource.cache
+C:\Users\SENA\source\repos\TiendasDeportivas\TiendasDeportivas\obj\Debug\TiendasDeportivas.csproj.CoreCompileInputs.cache
+C:\Users\SENA\source\repos\TiendasDeportivas\TiendasDeportivas\obj\Debug\TiendasDeportivas.exe
+C:\Users\SENA\source\repos\TiendasDeportivas\TiendasDeportivas\obj\Debug\TiendasDeportivas.pdb
